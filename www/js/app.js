@@ -53,8 +53,16 @@ angular.module('starter', ['ionic', 'starter.controllers'])
       }
     }
   })
+  .state('app.product-detail', {
+    url: '/product-detail',
+    views: {
+      'menuContent': {
+        templateUrl: 'templates/product-detail.html'
+      }
+    }
+  })
 
   
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('app/login');
+  $urlRouterProvider.otherwise('/login');
 });

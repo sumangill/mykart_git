@@ -1,1 +1,5 @@
 /* Empty. Add your own CSS if you like */
+.brdr-radius{border-radius: 100%;}
+.bar .title.ftr-font{font-size: 14px;}
+.bar-footer{height:36px;}
+.bar-footer .title{line-height: 37px;}
