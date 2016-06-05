@@ -1,6 +1,4 @@
-angular.module('starter.controllers', [])
-
-.controller('AppCtrl', function() {
+myCartAngular.controller('AppCtrl', function() {
 	
   
 
