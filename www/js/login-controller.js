@@ -4,16 +4,7 @@ $scope.home = function(){
 	$state.go('app.home');
 }
 
-  
-
-  
-
-  
-
-
-
-  
-})
+ })
 
 
 

@@ -1,5 +1,77 @@
 /* Empty. Add your own CSS if you like */
+.height_100Pre{
+	height: 100%;
+}
 .brdr-radius{border-radius: 100%;}
 .bar .title.ftr-font{font-size: 14px;}
 .bar-footer{height:36px;}
 .bar-footer .title{line-height: 37px;}
+.ion-ios-home.pdng-rt:before{padding-right: 5px;}
+.ion-android-done.pdng-rt:before{padding-right: 5px;}
+.ion-android-contact.pdng-rt:before{padding-right: 5px;}
+.login-bg{background: url('../img/login-bg.jpg') left top no-repeat; background-size: cover;}
+.yellow-bg{background: #ff8c00; color: #fff; border-radius: 0;}
+.row.padding-zero{padding: 0;}
+.login-pg p{color: #fff; text-align: center;}
+.login_Wrapper .scroll{
+	height: 100%;
+}
+.colorWhite{
+
+	color:#fff;
+}
+.contact-bg{
+	background: url('../img/contacts-bg.jpg') left top no-repeat; 
+	background-size: cover;
+}
+.contact-wrapper .scroll{
+	height: 100%;
+}
+
+.contact-wrapper input{
+	width:100%;
+	padding: 5%;
+	margin-bottom: 20px;
+}
+.contact-wrapper textarea{
+	width:100%;
+	height: 80px;
+	resize: none;
+	padding: 5%;
+	margin-bottom: 20px;
+}
+.button.active, .button.activated {
+        background-color: #ff8c00;
+ }
+ .thank-bg{
+ 	background: url('../img/thanks-bg.jpg') left top no-repeat; 
+	background-size: cover;
+ }
+ .thanks-wrapper .scroll{
+	height: 100%;
+}
+.thanks-wrapper p{
+	font-size: 19px;
+
+}
+.model-btn{
+	color: #fff;
+	position: absolute;;
+}
+.pr-wrapper .scroll{
+	height: 100%;
+}
+.pr-bg{
+	background: url('../img/pr-bg.jpg') left top no-repeat; 
+	background-size: cover;
+}
+.no-brdr{
+	border-left:none;
+	border-right: none;
+	border-top: none;
+	
+	background: transparent;
+}
+.pdng-btm{
+	padding-bottom: 50px;
+}

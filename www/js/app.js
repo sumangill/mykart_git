@@ -50,7 +50,8 @@ myCartAngular.config(function($stateProvider, $urlRouterProvider) {
     url: '/contactus',
     views: {
       'menuContent': {
-        templateUrl: 'templates/contactus.html'
+        templateUrl: 'templates/contactus.html',
+        controller : 'contactController'
       }
     }
   })
